@@ -6,11 +6,11 @@ Hallo Sultan Agung Muda
 
 Nama Saya : Miryati
 
-Nim       : 32602000040
+Nim          : 32602000040
 
-Prodi     : Teknik Informatika 
-
-Ig        : ra.xas_
+Prodi        : Teknik Informatika 
+  
+Ig           : ra.xas_
 
 di sini saya akan menyampaikan nama-nama aplikasi yang telah saya buat
 
